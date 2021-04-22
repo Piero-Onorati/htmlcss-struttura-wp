@@ -34,6 +34,15 @@ header{
     margin-bottom: 5px;
 }
 
+.section-title{
+    background-color: #abcfe7;
+    height: 50px;
+}
+
+.articles{
+    margin: 10px 0;
+}
+
 .float-left{
     float: left;
 }
@@ -42,20 +51,18 @@ header{
 aside{
     background-color: brown;
     height: 50px;
-    width: 50px;
+    width: 22%;
 }
 
 
 .main-content{
     background-color: hotpink;
     height: 50px;
-    width: 50px;
+    width: 50%;
+    margin: 0 10px;
 }
 
-.section-title{
-    background-color: #abcfe7;
-    height: 50px;
-}
+
 
 /* footer */
 
