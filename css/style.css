@@ -38,18 +38,9 @@ header{
     height: 50px;
 }
 
+/* section "articles" (aside-left + main-content + aside-right) */
 .articles{
     padding: 10px 0;
-}
-
-.float-left{
-    float: left;
-}
-
-.clearfix::after{
-    content: '';
-    display: table;
-    clear: both;
 }
 
 aside{
@@ -65,7 +56,15 @@ aside{
     margin: 0 10px;
 }
 
+.float-left{
+    float: left;
+}
 
+.clearfix::after{
+    content: '';
+    display: table;
+    clear: both;
+}
 
 /* footer */
 
