@@ -4,11 +4,16 @@
     box-sizing: border-box;
 }
 
+body{
+    padding: 20px 100px;
+}
+
 /* header */
 
 header{
     background-color: #e579e6;
     height: 70px;
+    margin-bottom: 15px;
 }
 
 /* main */
@@ -16,11 +21,13 @@ header{
 .jumbotron{
     background-color: #e1d67a;
     height: 250px;
+    margin-bottom: 15px;
 }
 
 .leadership-section{
     background-color: #0087ff;
     height: 350px;
+    margin-bottom: 5px;
 }
 
 /* footer */
