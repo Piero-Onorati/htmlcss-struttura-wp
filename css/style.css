@@ -4,3 +4,28 @@
     box-sizing: border-box;
 }
 
+/* header */
+
+header{
+    background-color: #e579e6;
+    height: 70px;
+}
+
+/* main */
+
+.jumbotron{
+    background-color: #e1d67a;
+    height: 250px;
+}
+
+.leadership-section{
+    background-color: #0087ff;
+    height: 350px;
+}
+
+/* footer */
+
+footer{
+    background-color: #8801fe;
+    height: 35px;
+}
